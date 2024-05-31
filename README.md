@@ -42,6 +42,17 @@ In Microsoft Azure, Language Services encompass a range of tools and APIs design
 4.Static web app.
 A static web app is a type of web application that consists of static web pages and assets (HTML, CSS, JavaScript, images, etc.) that are served directly to the client without the need for server-side processing. These apps are typically well-suited for showcasing content, portfolios, documentation, or lightweight interactive experiences. They are easy to deploy and can be hosted on various platforms, including cloud services like Azure Static Web Apps or GitHub Pages.
 
+## Demo
+You can view a live demo of this application [here](https://i-am-rajesh.github.io/Food-ordering-page/).
+
+## Follow Us
+
+Stay connected with us for updates and promotions!
+
+- **Instagram**: [_iam__rajesh_](https://www.instagram.com/_iam__rajesh_/)
+- **LinkedIn**: [iam-rajesh](https://www.linkedin.com/in/rajesh-2405-c/)
+
+
 ## Screen shots.
 ![image](https://github.com/Arunsri02/Forming/assets/133355175/abb4a305-6424-49c6-9193-2688ceded3ce)
 ![image](https://github.com/Arunsri02/Forming/assets/133355175/c9948b4a-84e0-4aa7-8355-94bd5f4c23a4)
